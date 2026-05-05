@@ -1,16 +1,15 @@
 ## Hi there 👋
+### I’m [Alexandre](https://www.linkedin.com/in/alexandre-lucas-67660799/?skipRedirect=true)! A designer & frontend developer who’s been building things since my university days.  
+From early experiments and academic projects to real client work, my repos reflect the path I’ve taken so far.
 
-<!--
-**alexandrewhok/alexandrewhok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently part of the main front‑end team at @[Ubiwhere](https://www.ubiwhere.com/pt/inicio), where I help design and develop interfaces that are clean, scalable, and actually pleasant to use.
 
-Here are some ideas to get you started:
+Some of the projects I’ve worked on at Ubiwhere:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Plataforma de Gestão Urbana](https://urbanplatform.city/)
+
+[Portal Público](https://portal.guimaraes.urbanplatform.city/)
+
+And another projects like PAYT, Muppies of Afurada and Lousada and more!
+
+Always exploring new ways to write better code, build better products, and keep learning along the way.
