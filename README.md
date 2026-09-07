@@ -4,7 +4,7 @@ From early experiments and academic projects to real client work, my repos refle
 
 Last client project where I created and developed everything, from the logo and branding to the website (WIP): [Future whispers](https://qa-future-whispers.netlify.app/pt/)
 
-I’m currently part of the main front‑end team at @[Ubiwhere](https://www.ubiwhere.com/pt/inicio), where I help design and develop interfaces that are clean, scalable, and actually pleasant to use.
+I was part of the main front‑end team at @[Ubiwhere](https://www.ubiwhere.com/pt/inicio) (August 2023 – August 2026), where I help design and develop interfaces that are clean, scalable, and actually pleasant to use.
 
 Some of the projects I’ve worked on at Ubiwhere:
 
